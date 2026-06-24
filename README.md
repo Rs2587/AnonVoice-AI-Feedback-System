@@ -104,9 +104,9 @@ This project addresses these issues by providing a secure and intelligent platfo
 
 ![Cluster Analysis](screenshots/cluster_analysis.png)
 
-### 🔄 Student Status Tracking
+### 🔄 Student Complaint Status Portal
 
-![Student Status](screenshots/student_status.png)
+![Student Complaint Status Portal](screenshots/student_status.png)
 
 
 ## 🤖 Machine Learning Models
