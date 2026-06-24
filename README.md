@@ -11,3 +11,36 @@ The system protects student identity using anonymous IDs and encrypted feedback 
 In many educational institutions, students hesitate to submit complaints due to fear of identification or retaliation. Traditional feedback systems often lack anonymity, analytics, and intelligent complaint categorization.
 
 This project addresses these issues by providing a secure and intelligent platform for anonymous complaint submission and analysis.
+
+## ✨ Features
+
+### Student Features
+
+* Submit complaints anonymously
+* Unique Anonymous ID generation
+* Track complaint status
+* View admin comments
+* Secure encrypted feedback storage
+
+### Admin Features
+
+* Admin login dashboard
+* View all complaints
+* Search complaints
+* Update complaint status
+* Add admin comments
+* Delete complaints
+* Export reports to Excel and PDF
+
+### Machine Learning Features
+
+* Sentiment Analysis (Positive, Negative, Urgent)
+* Automatic Category Prediction
+* KMeans Complaint Clustering
+* AI-Powered Complaint Insights
+
+### Data Visualization
+
+* Complaint Category Pie Chart
+* Sentiment Distribution Pie Chart
+* Dashboard Analytics
