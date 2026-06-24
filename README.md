@@ -158,33 +158,6 @@ Techniques Used:
 * TF-IDF Vectorization
 * KMeans Clustering
 
-## 🏗️ System Architecture
-Student
-   │
-   ▼
-Anonymous Feedback Submission
-   │
-   ▼
-Feedback Encryption
-   │
-   ▼
-Machine Learning Layer
-   ├── Sentiment Analysis
-   ├── Category Prediction
-   └── KMeans Clustering
-   │
-   ▼
-SQLite Database
-   │
-   ▼
-Admin Dashboard
-   ├── Analytics Charts
-   ├── Complaint Tracking
-   ├── Admin Comments
-   ├── Excel Export
-   └── PDF Export
-
-
 
 ## 🚀 Future Enhancements
 
