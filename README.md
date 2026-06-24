@@ -44,3 +44,43 @@ This project addresses these issues by providing a secure and intelligent platfo
 * Complaint Category Pie Chart
 * Sentiment Distribution Pie Chart
 * Dashboard Analytics
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* Bootstrap 5
+
+### Backend
+
+* Flask
+* Python
+
+### Database
+
+* SQLite
+
+### Machine Learning
+
+* Scikit-Learn
+* TF-IDF Vectorizer
+* Multinomial Naive Bayes
+* KMeans Clustering
+
+### Data Analysis & Visualization
+
+* Pandas
+* Matplotlib
+
+### Security
+
+* Feedback Encryption
+* Anonymous ID Generation
+
+### Reporting
+
+* Excel Export (Pandas)
+* PDF Export (ReportLab)
