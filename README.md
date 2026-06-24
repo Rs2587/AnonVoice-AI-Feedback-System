@@ -86,42 +86,25 @@ This project addresses these issues by providing a secure and intelligent platfo
 * PDF Export (ReportLab)
 
 
-## 📂 Project Structure
-AnonVoice_Project_Structure/
-│
-├── app.py
-├── README.md
-│
-├── database/
-│   └── feedback.db
-│
-├── dataset/
-│   ├── sentiment_data.csv
-│   └── category_data.csv
-│
-├── models/
-│   └── feedback.py
-│
-├── routes/
-│   ├── admin_routes.py
-│   └── feedback_routes.py
-│
-├── templates/
-│   ├── submit_feedback.html
-│   ├── admin_dashboard.html
-│   ├── login.html
-│   ├── check_status.html
-│   └── complaint_status.html
-│
-├── utils/
-│   ├── encryption.py
-│   ├── anonymizer.py
-│   ├── ml_sentiment.py
-│   ├── category_predictor.py
-│   └── cluster_helper.py
-│
-├── static/
-│   └── charts/
-│
-└── screenshots/
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### 📊 Admin Dashboard
+
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### 📈 Analytics Charts
+
+![Analytics Charts](screenshots/charts.png)
+
+### 🤖 AI Cluster Analysis
+
+![Cluster Analysis](screenshots/cluster_analysis.png)
+
+### 🔄 Complaint Status Tracking
+
+![Status Tracking](screenshots/status_tracking.png)
 
