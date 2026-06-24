@@ -158,3 +158,41 @@ Techniques Used:
 * TF-IDF Vectorization
 * KMeans Clustering
 
+## 🚀 Future Enhancements
+
+* Email Notifications for Complaint Updates
+* Real-Time Dashboard Analytics
+* Role-Based Access Control
+* Mobile Application Integration
+* AI Chatbot for Student Support
+* Advanced NLP-Based Complaint Summarization
+* Cloud Deployment using AWS or Azure
+* Real-Time Complaint Monitoring
+
+
+
+## ⭐ Key Highlights
+
+* Anonymous Complaint Submission
+* Secure Data Encryption
+* Sentiment Analysis using Machine Learning
+* Automatic Complaint Category Prediction
+* KMeans Complaint Clustering
+* Interactive Analytics Dashboard
+* Complaint Status Tracking
+* Admin Comments System
+* Excel and PDF Report Generation
+* Student Complaint Tracking Portal
+
+
+
+### Connect With Me
+
+* GitHub: https://github.com/Rs2587
+
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+
