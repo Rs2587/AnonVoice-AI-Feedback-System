@@ -151,7 +151,7 @@ Example Clusters:
 
 * Infrastructure Issues
 * Faculty Related Issues
-* Placement Related Issues
+* Placement Related Issues 
 
 Techniques Used:
 
