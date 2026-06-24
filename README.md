@@ -104,7 +104,7 @@ This project addresses these issues by providing a secure and intelligent platfo
 
 ![Cluster Analysis](screenshots/cluster_analysis.png)
 
-### 🔄 Complaint Status Tracking
+### 🔄 Student Status Tracking
 
-![Status Tracking](screenshots/status_tracking.png)
+![Student Status](screenshots/student_status.png)
 
