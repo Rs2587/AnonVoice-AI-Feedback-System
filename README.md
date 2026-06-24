@@ -108,3 +108,53 @@ This project addresses these issues by providing a secure and intelligent platfo
 
 ![Student Status](screenshots/student_status.png)
 
+
+## 🤖 Machine Learning Models
+
+### 1. Sentiment Analysis
+
+The system automatically classifies complaints into:
+
+* Positive
+* Negative
+* Urgent
+
+Techniques Used:
+
+* TF-IDF Vectorization
+* Multinomial Naive Bayes
+
+---
+
+### 2. Automatic Category Prediction
+
+The system predicts complaint categories such as:
+
+* Faculty
+* Placement
+* Infrastructure
+* College
+* Other
+
+Techniques Used:
+
+* TF-IDF Vectorization
+* Naive Bayes Classification
+
+---
+
+### 3. KMeans Complaint Clustering
+
+The system groups similar complaints together to identify common issues and patterns.
+
+Example Clusters:
+
+* Infrastructure Issues
+* Faculty Related Issues
+* Placement Related Issues
+
+Techniques Used:
+
+* TF-IDF Vectorization
+* KMeans Clustering
+
