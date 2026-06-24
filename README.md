@@ -84,3 +84,44 @@ This project addresses these issues by providing a secure and intelligent platfo
 
 * Excel Export (Pandas)
 * PDF Export (ReportLab)
+
+
+## 📂 Project Structure
+AnonVoice_Project_Structure/
+│
+├── app.py
+├── README.md
+│
+├── database/
+│   └── feedback.db
+│
+├── dataset/
+│   ├── sentiment_data.csv
+│   └── category_data.csv
+│
+├── models/
+│   └── feedback.py
+│
+├── routes/
+│   ├── admin_routes.py
+│   └── feedback_routes.py
+│
+├── templates/
+│   ├── submit_feedback.html
+│   ├── admin_dashboard.html
+│   ├── login.html
+│   ├── check_status.html
+│   └── complaint_status.html
+│
+├── utils/
+│   ├── encryption.py
+│   ├── anonymizer.py
+│   ├── ml_sentiment.py
+│   ├── category_predictor.py
+│   └── cluster_helper.py
+│
+├── static/
+│   └── charts/
+│
+└── screenshots/
+
